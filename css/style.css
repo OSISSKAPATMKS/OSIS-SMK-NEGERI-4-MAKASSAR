@@ -517,13 +517,13 @@ footer .credit a {
   .modal-content {
     flex-wrap: wrap;
   }
-}
-.border .img {
-  width: auto;
-  height: auto;
-  margin-right: -3.5rem;
-}
 
+  .border .img {
+    width: auto;
+    height: auto;
+    margin-right: -3.5rem;
+  }
+}
 /* Mobile Phone */
 @media (max-width: 450px) {
   html {
