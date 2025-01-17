@@ -518,6 +518,11 @@ footer .credit a {
     flex-wrap: wrap;
   }
 }
+.border .img {
+  width: auto;
+  height: auto;
+  margin-right: -3.5rem;
+}
 
 /* Mobile Phone */
 @media (max-width: 450px) {
